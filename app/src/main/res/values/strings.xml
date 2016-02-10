@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFileManager</string>
+    <string name="delete">Cancella</string>
+    <string name="copy">Copia</string>
+    <string name="paste">Incolla</string>
+    <string name="move">Sposta</string>
+    <string name="nofiles">Nessun file presente</string>
+    <string name="confirmDelete">Sei sicuro?</string>
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+
+</resources>
